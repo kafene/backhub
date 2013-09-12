@@ -6,6 +6,9 @@ Eventually I will probably work on this and make it a bit more user friendly
 but at the moment it is at least functional for its main purpose which is
 for me to call it automatically from my main backup script.
 
+Note - I named and refer to it as `backhub`, but the script is named
+`backhub.sh` so that GitHub will do its syntax highlighting.
+
 ---
 
 # Usage
